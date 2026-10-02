@@ -8,7 +8,7 @@ You can install PocketGull fonts using `brew`:
 
 ```bash
 # Install directly via tap
-brew install pocketgull-app/tap/font-pocketgull
+brew install --cask pocketgull-app/tap/font-pocketgull
 ```
 
 Or add the tap first:

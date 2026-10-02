@@ -1,6 +1,6 @@
 cask "font-pocketgull" do
   version "3.1.0"
-  sha256 "34b07aaed632064210a67baaa1932de2d4b5001bd280b8666d928d7a0f79c718"
+  sha256 "8c64028a1d53cf940422f66c35d6098065136f9899524653b3f3ce520c2821cc"
 
   url "https://github.com/pocketgull-app/pocketgull-font/releases/download/v#{version}/pocketgull-typeface-v#{version}.zip"
   name "PocketGull"
@@ -30,6 +30,7 @@ cask "font-pocketgull" do
   font "fonts/ttf/PocketGull-Regular.ttf"
   font "fonts/ttf/PocketGull-Serif-Bold.ttf"
   font "fonts/ttf/PocketGull-Serif-Regular.ttf"
+  font "fonts/ttf/PocketGull-Serif-VF.ttf"
   font "fonts/ttf/PocketGull-Slab-Bold.ttf"
   font "fonts/ttf/PocketGull-Slab-Regular.ttf"
   font "fonts/ttf/PocketGull-Soft-Bold.ttf"
